@@ -12,3 +12,14 @@ Lets send an encouraging roar of support to those Detroit Tigers. Wanted to send
 ## Lessons Learned:
 
 First time using MongoDb so that was enjoyable not to mention figuring how to make request to create, read, update, and delete from the database.
+
+
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `npm run savage`
+2. Navigate to `localhost:3000`
